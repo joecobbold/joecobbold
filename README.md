@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋 Welcome to my GitHub!
 
-<!--
-**joecobbold/joecobbold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+I’m Joseph Cobbold, a software developer with a strong background in QA automation, specializing in web applications. After completing Tech Elevator’s rigorous program, I transitioned into full-stack development, building on my expertise in Java, database design, and modern web technologies like Vue.js. With hands-on experience in building automation frameworks and optimizing testing processes, I’m passionate about solving complex problems through technology and continuously expanding my development skills.
 
-Here are some ideas to get you started:
+⚡ Tech Stack
+	•	💻 Languages: Java, JavaScript, HTML, CSS
+	•	🚀 Frameworks & Tools: Vue.js, Node.js, GitHub, Vite, PostgreSQL
+	•	📚 Currently Learning: Advanced JavaScript, Cloud Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me
+	•	GitHub: github.com/joecobbold
+	•	LinkedIn: linkedin.com/in/joecobbold
+ 
