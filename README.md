@@ -6,10 +6,24 @@ I’m Joseph Cobbold, a software developer with a strong background in QA automa
 
 ***
 
-⚡ Tech Stack  
-		•💻 Languages: Java, JavaScript, HTML, CSS  
-		•🚀 Frameworks & Tools: Vue.js, Node.js, GitHub, Vite, PostgreSQL  
-		•📚 Currently Learning: Advanced JavaScript, Cloud Architecture  
+## ⚡ Tech Stack
+
+- 💻 **Languages:**  
+    - Java  
+    - JavaScript  
+    - HTML  
+    - CSS  
+
+- 🚀 **Frameworks & Tools:**  
+    - Vue.js  
+    - Node.js  
+    - GitHub  
+    - Vite  
+    - PostgreSQL  
+
+- 📚 **Currently Learning:**  
+    - Advanced JavaScript  
+    - Cloud Architecture  
 
  ***
 
